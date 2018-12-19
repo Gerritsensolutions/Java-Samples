@@ -1,1 +1,4 @@
-
+This project demonstrates the use of a binary hash tree. By hashing words in a text file or placing them into a binary tree,
+the program displays statistical information about each word. The stock text file provided is getty.txt (a copy of the
+Gettysburg Address). Furthermore, another text file is given (omit.txt) which is a list of words that ought to be omitted from
+the final statistical analysis.
