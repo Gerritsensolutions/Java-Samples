@@ -2,6 +2,7 @@
  * EvalPostfix.java
  * @author Tyler Gerritsen
  * @version 3-5-2017
+ * used to work with and evaluate a given postfix expression
  */
 public class EvalPostfix {
 	private SuperOutput out;
