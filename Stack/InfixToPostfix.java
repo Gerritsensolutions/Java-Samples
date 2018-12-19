@@ -2,6 +2,7 @@
  * InfixToPostfix.java
  * @author Tyler Gerritsen
  * @version 3-5-2017
+ * transforms an infix expression to postfix
  */
 public class InfixToPostfix {
 	private SuperOutput out;
