@@ -10,8 +10,6 @@
  * 
  * Author: Tyler Gerritsen
  * 
- * Palomar ID: 010247897
- * 
  * User Instructions: enter a number from the menu selections to convert 
  * different number systems.
  */
