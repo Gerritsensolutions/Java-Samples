@@ -2,6 +2,7 @@
  * Binary.java
  * @author Tyler Gerritsen
  * @version 2-13-2017
+ * Accepts a binary value and converts it to decimal and hexadecimal
  */
 import java.io.PrintWriter;
 import java.util.Scanner;
