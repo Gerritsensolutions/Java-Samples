@@ -2,6 +2,7 @@
  * Menu.java
  * @author Tyler Gerritsen
  * @version 2-13-2017
+ * Simply displays a menu of options for the user to choose from
  */
 import java.io.PrintWriter;
 import java.util.Scanner;
