@@ -3,14 +3,14 @@
  * @author Tyler Gerritsen
  * @version 5/19/2017
  * 
- * Driver.java is the driver for the binary tree hashing lab.
+ * Driver.java is the driver for the binary hash tree.
  */
 
 import java.io.FileNotFoundException;
 
 public class Driver {
 	public static void main(String[] args) throws FileNotFoundException {
-		SuperOutput out = new SuperOutput("csis.txt");
+		SuperOutput out = new SuperOutput("out.txt");
 		Xref reference = new Xref(out);
 		
 		reference.outputHeader();
