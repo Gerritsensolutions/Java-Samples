@@ -1,1 +1,3 @@
-
+Another fundamental project that is commonly used to showcase computer science skills: an expression evaluator that 
+utilizes a stack data structure. An expression provided by the text file (infix.txt) is first transformed to a postfix
+expression, and then the postfix expression is evaluated.
