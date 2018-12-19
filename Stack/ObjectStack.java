@@ -2,6 +2,7 @@
  * ObjectStack.java
  * @author Tyler Gerritsen
  * @version 3-5-2017
+ * Simple stack of objects. Able to push, pop, top; the usual stack operations.
  */
 public class ObjectStack {
     private Object[] item;
