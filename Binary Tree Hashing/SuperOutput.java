@@ -1,6 +1,6 @@
 /**
  * SuperOutput.java
- * @author Richard Stegman
+ * @author Tyler Gerritsen
  * @version Unknown
  * 
  * A simple class for outputting a string to both a file and the 
