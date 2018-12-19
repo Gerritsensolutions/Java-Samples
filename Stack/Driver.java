@@ -1,7 +1,8 @@
 /**
  * Project Title: Stack
  * 
- * Project Description: Performs infix to postfix transformations on expressions using a stack of objects
+ * Project Description: Performs infix to postfix transformations on expressions using a stack of objects.
+ * Then, it evaluates the expression using a stack.
  * 
  * Version or Date: 3-5-2017
  * 
