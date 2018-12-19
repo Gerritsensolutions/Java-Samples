@@ -1,1 +1,2 @@
-
+This project, dubbed the "Multilevel Feedback Queue", simulates a CPU scheduler using several queues to indicate
+priority levels for a series of Job objects.
