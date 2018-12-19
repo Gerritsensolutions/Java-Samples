@@ -1,7 +1,7 @@
 /**
- * Project Title: Stacks Lab
+ * Project Title: Stack
  * 
- * Project Description: Performs infix to postfix using a stack of objects
+ * Project Description: Performs infix to postfix transformations on expressions using a stack of objects
  * 
  * Version or Date: 3-5-2017
  * 
@@ -9,10 +9,6 @@
  * 
  * Author: Tyler Gerritsen
  * 
- * Palomar ID: 010247897
- * 
- * User Instructions: enter a number from the menu selections to convert 
- * different number systems.
  */
 import java.util.Scanner;
 import java.io.*;
