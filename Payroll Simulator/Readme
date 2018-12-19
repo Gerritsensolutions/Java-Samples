@@ -1,2 +1,4 @@
 As is popular with many computer scientists, here is a demonstration of a linked list working with classes of
-employees on a payroll, simulating payraises and salaries.
+employees on a payroll, simulating payraises and salaries, as well as a hiring list. This project is designed
+to be used with the two provided .txt files, hirefile and payfile, a list of employees to hire and a list of payment
+information respectively.
